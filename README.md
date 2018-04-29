@@ -48,7 +48,9 @@ into
 
 Turn you into programmers (or better programmers).
 
-Get you using the shell (somewhat) efficiently.
+Get you using the shell (more or less) efficiently.
+
+Get rid of fear.
 
 Show you how to help yourselves.
 
@@ -56,13 +58,14 @@ Show you what's possible - breadth not depth. There are lots of moving
 parts to understand - let's not get hung up on too many of them.  The idea
 is to get you programming and then give a broad sweep of what's possible.
 
-Turn you into someone who, when faced with a data problem, thinks "I can
-write a quick script to solve that problem". And then does!
+Get you "over the hump" and turn you into someone who, when faced with a
+data problem, thinks "I can write a quick script to solve that
+problem". And then does!
 
 ## General comments on programming
 
 We're all piecemeal in our knowledge because this is not our job. That's
-good. It means within a short amount of time of starting you will know
+ok. It means within a short amount of time of starting you will know
 things that (more experienced) others will not, and that, in reverse,
 people who overall know much less than you will know more about some
 aspects than you do. = don't be arrogant, help one another.
@@ -108,8 +111,9 @@ I have to look things up all the time.
 
 * Make a [github](https://github.com) account.
 * [Install brew](https://docs.brew.sh/Installation).
-* Run `brew install [python3](https://docs.python.org/3/)`.
-* Install a text editor. E.g. [sublime text](https://www.sublimetext.com/3).
+* Then
+    * `brew install python3 git`
+* Install a text editor. E.g. [sublime text](https://www.sublimetext.com/3).  Learn how to use it!
 
 ## Topics
 

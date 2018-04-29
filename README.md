@@ -1,5 +1,7 @@
 # An idealistic Python course
 
+The below will be expanded on during the course. It's far from complete.
+
 ## Attendees
 
 * Alison Sutherland
@@ -39,7 +41,8 @@ all possible questions.
 Let's have a note taker in each class. Take notes in
 [markdown](https://daringfireball.net/projects/markdown/syntax), push them
 into
-[our class repo github](https://github.com/acorg/2018-cambridge-python-course).
+[our class repo github](https://github.com/acorg/2018-cambridge-python-course)
+(which is what you're looking at now).
 
 ## Course aims
 

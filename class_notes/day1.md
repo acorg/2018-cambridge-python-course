@@ -266,6 +266,8 @@ d['age']
 a, b, c = 1, "hi", 45
 ```
 
+Dictionaries can be sorted, but it only sorts the keys, not the values.
+
 
 Set
 ---

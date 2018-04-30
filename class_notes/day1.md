@@ -28,6 +28,6 @@ Command list
 Unix commands
 -------------
 
-cd - __C__ hange __D__ irectory
-ls - __L__ ist
+* cd - __C__ hange __D__ irectory
+* ls - __L__ ist
 

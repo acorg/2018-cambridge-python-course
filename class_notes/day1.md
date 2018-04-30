@@ -52,6 +52,7 @@ Unix commands
 * __cat__   - print the contents of a file (CATenate)
 * __more__  - Shows what's in a file but only a page at a time.
 * __less__  - Shows what's in a file line by line.
+* __pwd__   - Print Working Directory
 
 (Once in a program like __more__ you can use q to quit - but these are esoteric things for the particular program)
 
@@ -62,12 +63,12 @@ Set's up three things:
 - Where does the output go?
 - Where do error messages go?
 
-By default all of these are the terminal.
+By default all of these are the terminal. But you can change them.
 
 Capturing output
 ----------------
 
-Take the output from the left and supply it as input to a __function__ on the left.
+Take the output from the left and supply it as input to a __program__ / __function__ on the left.
 
 `man cat | less`
 
@@ -96,9 +97,39 @@ Command manuals
 ---------------
 * __man__   - Read the MANual for a function e.g. "man ls"
 
+
 Extra arguments
 ---------------
 Extra arguments for commands can be supplied with "-" e.g. "lm -l"
 
+
+Environment variables
+---------------------
+Set a variable with the equals sign:
+
+```
+x = 4
+```
+
+But _access_ a variable using `$` e.g.
+
+```
+cat $x
+```
+
+Note that this is different for different languages
+
+Special variables
+-----------------
+
+`$PATH` A variable name that holds all of the directories that hold programs you might want to run.  When you run a program it looks for a program file in these directories with the same name.
+
+`\bin` - generally system programs
+`\usr\bin` - also more systemy things
+`\usr\local` - user installed programs
+
+You can use `which` to find where a program is being called from e.g. `which python`.
+
+But note things like `type cd` - a shell built in.
 
 

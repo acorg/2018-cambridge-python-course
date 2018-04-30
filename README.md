@@ -5,7 +5,9 @@ The below will be expanded on during the course. It's far from complete.
 ## Attendees
 
 * Alison Sutherland
+* Ana Mosterin
 * Christine Hirschberger
+* Daniel Fabian
 * Divya Venkatesh
 * Eppie Jones
 * Gabby Montejo-Kovacevich
@@ -16,8 +18,6 @@ The below will be expanded on during the course. It's far from complete.
 * Sam Wilks
 * Stefan van der Vliet
 * Tali Veith
-
-Possibly also Daniel Fabian, Ana Mosterin.
 
 ## Description of course, aims, beliefs, etc.
 

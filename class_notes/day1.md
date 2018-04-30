@@ -162,3 +162,39 @@ Cat all files on desktop ending in .txt:
 cat ~/Desktop/*.txt
 ```
 
+Quotes in shell
+---------------
+
+Inside the shell variables in _double_ quotes are expanded but variables in _single_ quotes are not. e.g.:
+
+```
+x=4
+echo "$x"
+echo '$x'
+```
+
+
+
+
+Python intro
+============
+
+Python is unusual because indentation matters!
+
+For example in `if` loops
+```python
+x = 4
+
+if x == 5:
+	print('really big')
+else:
+	print('not so big')
+```
+
+Or in `for` loops
+```python
+for wanted in ['butter', 'cheese', 'celery']:
+  print('now we have to find', wanted)
+```
+
+

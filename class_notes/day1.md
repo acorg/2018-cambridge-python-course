@@ -4,7 +4,8 @@ Day 1
 =====
 
 
-# Terry's intro
+Terry's intro
+-------------
 It's good to know nothing. We all know very little. Terry knows very little.
 
 

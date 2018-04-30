@@ -35,8 +35,8 @@ __Control-L__ to empty the shell screen.
 __Control-D__ to end input.
 
 
-Command list
-============
+Unix command line
+=================
 
 Unix commands
 -------------

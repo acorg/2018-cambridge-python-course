@@ -17,4 +17,17 @@ Homebrew - a package manager. It makes installing command line programs (program
 Sublime text - a text editor. You can also use others but this has handy features like code highlighting and autocompletion for different languages.
 
 
+The directory tree
+------------------
+
+All the files are stored somewhere in a directory. The desktop is no different, it's just a special folder where all the contents are shown as icons on the desktop.
+
+Command list
+============
+
+Unix commands
+-------------
+
+cd - __C__ hange __D__ irectory
+ls - __L__ ist
 

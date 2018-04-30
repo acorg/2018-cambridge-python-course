@@ -50,9 +50,11 @@ Unix commands
 * __echo__  - Print something, useful for producing output in a shell script
 * __mv__    - MoVe a file (but can also be used for renaming the file)
 * __cat__   - print the contents of a file (CATenate)
-* __more__  - Shows what's in a file but only a page at a time.
-* __less__  - Shows what's in a file line by line.
+* __more__  - shows what's in a file but only a page at a time.
+* __less__  - shows what's in a file line by line.
 * __pwd__   - Print Working Directory
+* __wc__    - Word Count
+* __cp__    - CoPy files
 
 (Once in a program like __more__ you can use q to quit - but these are esoteric things for the particular program)
 
@@ -70,12 +72,17 @@ Capturing output
 
 Take the output from the left and supply it as input to a __program__ / __function__ on the left.
 
-`man cat | less`
-
+```
+man cat | less
+echo hello there | wc
+cat * | wc
+```
 
 But you can capture the output and redirect it to a __file__ with __>__ e.g.
 
-`echo hello there > output.txt`
+```
+echo hello there > output.txt
+```
 
 
 Control characters
@@ -101,6 +108,9 @@ Command manuals
 Extra arguments
 ---------------
 Extra arguments for commands can be supplied with "-" e.g. "lm -l"
+
+
+
 
 
 Environment variables
@@ -131,5 +141,17 @@ Special variables
 You can use `which` to find where a program is being called from e.g. `which python`.
 
 But note things like `type cd` - a shell built in.
+
+
+String matching
+---------------
+
+Use `*` to match any characters, e.g. for selecting multiple files.
+
+Cat all files on desktop ending in .txt:
+
+```
+cat ~/Desktop/*.txt
+```
 
 

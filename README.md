@@ -142,9 +142,9 @@ data without any (real) programming.
 
 Shell metacharacters, loops, variables.
 
-Set the option key to send whatever it is...
+For OS X people, set the option key to send whatever it is...
 
-Navigating on the command line: C-a, C-e
+Navigating on the command line: C-a, C-e. Use M-. and TAB.
 
 Environment variables: `PATH`.
 

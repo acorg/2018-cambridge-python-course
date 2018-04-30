@@ -49,7 +49,11 @@ Unix commands
 * __rmdir__ - ReMove DIRectory (but only _empty_ directories)
 * __echo__  - Print something, useful for producing output in a shell script
 * __mv__    - MoVe a file (but can also be used for renaming the file)
-* __cat__   - print file (CATenate)
+* __cat__   - print the contents of a file (CATenate)
+* __more__  - Shows what's in a file but only a page at a time.
+* __less__  - Shows what's in a file line by line.
+
+(Once in a program like __more__ you can use q to quit - but these are esoteric things for the particular program)
 
 Unix programs
 -------------
@@ -60,14 +64,26 @@ Set's up three things:
 
 By default all of these are the terminal.
 
-But you can capture the output and redirect it to a file with __>__ e.g.
+Capturing output
+----------------
 
-echo hello there > output.txt
+Take the output from the left and supply it as input to a __function__ on the left.
+
+`man cat | less`
+
+
+But you can capture the output and redirect it to a __file__ with __>__ e.g.
+
+`echo hello there > output.txt`
 
 
 Control characters
 ------------------
 See `man ascii`. Some characters are control characters, they don't print to the output but are interpreted in a special way. For example "carriage return" or "end of text".
+
+Control-D : End input (kills shell if you are in shell!)
+Control-C : Kill the underlying process
+Control-L : Empty the shell screen
 
 
 GUI

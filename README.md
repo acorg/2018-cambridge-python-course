@@ -4,20 +4,20 @@ The below will be expanded on during the course. It's far from complete.
 
 ## Attendees
 
-* Alison Sutherland
-* Ana Mosterin
-* Christine Hirschberger
-* Daniel Fabian
-* Divya Venkatesh
-* Eppie Jones
-* Gabby Montejo-Kovacevich
-* Gabriel Jamie
-* Maanasa Raghavan
-* Miruna Rosu
-* Pier Maisano Delser
-* Sam Wilks
-* Stefan van der Vliet
-* Tali Veith
+1. Alison Sutherland
+1. Ana Mosterin
+1. Christine Hirschberger
+1. Daniel Fabian
+1. Divya Venkatesh
+1. Eppie Jones
+1. Gabby Montejo-Kovacevich
+1. Gabriel Jamie
+1. Maanasa Raghavan
+1. Miruna Rosu
+1. Pier Maisano Delser
+1. Sam Wilks
+1. Stefan van der Vliet
+1. Tali Veith
 
 ## Description of course, aims, beliefs, etc.
 

@@ -224,16 +224,6 @@ for wanted in ['butter', 'cheese', 'celery']:
 ```
 
 
-Set
----
-
-A set for storing values:
-
-```python
-seen = set()
-```
-
-
 Objects in python
 -----------------
 
@@ -257,10 +247,11 @@ dir(mystring)
 dir("hello world")
 ```
 
-Dictionaries in Python
-----------------------
 
-Dictionaries can contain anything as values (and as keys!).  Very useful and flexible.
+Dictionaries
+------------
+
+Dictionaries can contain anything as values (and as keys!).  Very useful and flexible. They are different from lists because there are not only values but also keys. They aren't ordered.
 
 ```python
 # Make a new empty dictionary:
@@ -271,5 +262,27 @@ d['age'] = (3, 5, 21)
 
 # Recall from a list
 d['age']
+```
+
+
+Set
+---
+
+A set for storing values:
+
+```python
+seen = set()
+```
+
+Sets are not ordered and contain unique values
+
+
+List
+----
+
+Lists are ordered and can contain anything, they can be made:
+
+```python
+newlist = [1, 2, 3]
 ```
 

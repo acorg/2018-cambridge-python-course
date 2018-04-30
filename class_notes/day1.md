@@ -262,6 +262,8 @@ d['age'] = (3, 5, 21)
 
 # Recall from a list
 d['age']
+
+a, b, c = 1, "hi", 45
 ```
 
 
@@ -285,4 +287,41 @@ Lists are ordered and can contain anything, they can be made:
 ```python
 newlist = [1, 2, 3]
 ```
+
+
+Converting between dictionaries and lists
+-----------------------------------------
+
+Sometimes you want to convert a dictionary to a list, so that you can do things like sort the items (which can't be done with a dictionary). It can be done by iterating through the dictionary tuples and appending them to a list:
+
+```python
+# Assume wordCounts is a dictionary
+newlist = []
+for (word, count) in wordCounts.items():
+  newlist.append((count, word))
+```
+
+
+Difference between functions that return and object and functions that modify an object
+---------------------------------------------------------------------------------------
+
+Some functions change the object themselves when called e.g.:
+
+```python
+newlist = [2,3,1,0]
+newlist.sort()
+print(sort)
+```
+
+Some functions do something but return another object leaving the original object untouched e.g.:
+
+```python
+newlist = [2,3,1,0]
+sortedlist = sorted(newlist)
+print(newlist)
+print(sortedlist)
+```
+
+
+
 

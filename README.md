@@ -110,7 +110,7 @@ I have to look things up all the time.
 ## Do these things immediately
 
 * Make a [github](https://github.com) account.
-* [Install brew](https://docs.brew.sh/Installation).
+* If you're on OS X, [install brew](https://docs.brew.sh/Installation).
 * Then
     * `brew install python3 git`
 * Install a text editor. E.g. [sublime text](https://www.sublimetext.com/3).  Learn how to use it!
@@ -141,6 +141,10 @@ The shell is extremely powerful, allowing you to do all sorts of things to
 data without any (real) programming.
 
 Shell metacharacters, loops, variables.
+
+Set the option key to send whatever it is...
+
+Navigating on the command line: C-a, C-e
 
 Environment variables: `PATH`.
 

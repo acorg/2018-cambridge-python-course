@@ -78,6 +78,14 @@ echo hello there | wc
 cat * | wc
 ```
 
+or, more complex:
+```
+cat filename.txt | tr ' ' '\n' | tr 'A-Z' 'a-z' | tr -d ',.' | sort | uniq -c | sort -n -r | head -n 20
+```
+* __tr__    - TransliteRate change characters into other characters
+* __sort__  - SORT lines
+* __uniq__  - output UNIQue lines
+
 But you can capture the output and redirect it to a __file__ with __>__ e.g.
 
 ```
@@ -153,5 +161,4 @@ Cat all files on desktop ending in .txt:
 ```
 cat ~/Desktop/*.txt
 ```
-
 

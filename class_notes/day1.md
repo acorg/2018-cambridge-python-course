@@ -224,3 +224,52 @@ for wanted in ['butter', 'cheese', 'celery']:
 ```
 
 
+Set
+---
+
+A set for storing values:
+
+```python
+seen = set()
+```
+
+
+Objects in python
+-----------------
+
+Functions are attached to objects in python and pretty much everything is an object. Even strings are objects! They are not just a bunch of characters, they also contain a reference to an underlying 'prototype' string object, when you create a string it inherits a lot of functions from the base generic string object.  e.g.
+
+```python
+mystring = "hello world"
+print(mystring.startswith('h'))
+
+# Or call it directly on the string:
+print("hello world".startswith('h'))
+```
+
+You can use `dir()` to list all the functions attached to an object. e.g.
+```python
+mystring = "hello world"
+dir(mystring)
+
+# Or call it directly on the string:
+
+dir("hello world")
+```
+
+Dictionaries in Python
+----------------------
+
+Dictionaries can contain anything as values (and as keys!).  Very useful and flexible.
+
+```python
+# Make a new empty dictionary:
+d = {}
+
+# Add a list
+d['age'] = (3, 5, 21)
+
+# Recall from a list
+d['age']
+```
+

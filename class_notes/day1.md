@@ -196,13 +196,8 @@ $ echo '$x'
 $x
 ```
 
-
-Loops in shell
---------------
-
-
 Shell as a programming language
--------------------------------
+--------------
 
 Can still do programming in the shell, for example
 

@@ -174,6 +174,32 @@ echo '$x'
 ```
 
 
+Loops in shell
+--------------
+
+
+Shell as a programming language
+-------------------------------
+
+Can still do programming in the shell, for example
+
+For loops
+```
+for i in *
+do
+echo $i
+done
+```
+
+If statement
+```
+if [ $x = 4 ] # Note spaces
+then
+echo yes
+fi
+```
+
+Big difference is that variables are called with the `$` symbol and otherwise things are looked up in your path.
 
 
 Python intro
@@ -194,7 +220,7 @@ else:
 Or in `for` loops
 ```python
 for wanted in ['butter', 'cheese', 'celery']:
-  print('now we have to find', wanted)
+  	print('now we have to find', wanted)
 ```
 
 

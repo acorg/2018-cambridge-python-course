@@ -288,6 +288,15 @@ Lists are ordered and can contain anything, they can be made:
 newlist = [1, 2, 3]
 ```
 
+__CAREFUL__
+Strings used in the context of a list will be treated like a list! i.e.:
+```python
+for x in "abcfjse":
+	print(x)
+	
+print(sorted("abcfjse"))
+```
+
 
 Converting between dictionaries and lists
 -----------------------------------------

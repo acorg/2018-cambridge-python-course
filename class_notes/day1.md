@@ -22,12 +22,27 @@ The directory tree
 
 All the files are stored somewhere in a directory. The desktop is no different, it's just a special folder where all the contents are shown as icons on the desktop.
 
+
+The shell
+---------
+
+Multiple shells, BASH is the most common - "Bourne Again SHell"
+
+You can enter different shells (Control-D to exit a shell)
+
+Control-L to empty the shell screen.
+
+
 Command list
 ============
 
 Unix commands
 -------------
 
-* cd - __C__ hange __D__ irectory
-* ls - __L__ ist
+* cd    - Change Directory
+* ls    - LiSt
+* mkdir - MaKe DIRectory
+* touch - Just make an empty file or record that it has been updated ("touched" by someone)
+* rm    - ReMove file
+* rmdir - ReMove DIRectory (but only _empty_ directories)
 

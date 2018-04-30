@@ -46,7 +46,9 @@ Unix commands
 * __cd__    - Change Directory
 * __ls__    - LiSt
 * __mkdir__ - MaKe DIRectory
-* __touch__ - Make a new empty file or set the modification date on an existing file to now (i.e., make it look like the file was just "touched" by someone)
+* __touch__ - Make a new empty file or set the modification date on an
+  existing file to now (i.e., make it look like the file was just "touched"
+  by someone)
 * __rm__    - ReMove file
 * __rmdir__ - ReMove DIRectory (but only works on _empty_ directories)
 * __echo__  - Print something, useful for producing output to feed into in a program

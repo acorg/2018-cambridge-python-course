@@ -36,8 +36,14 @@ ls *[34]-hbv*{readq,fastq}
 ls | grep -v fastq
 ```
 
+Two greater thans append input to the end of a file rather than overwriting it.
+```bash
+# Create test.txt file
+echo "item 1" > ~/Desktop/test.txt
 
-
+# Append to test.txt file
+echo "item 2" >> ~/Desktop/test.txt
+```
 
 
 Back to python
@@ -59,6 +65,14 @@ prefixes.sort()
 for prefix in prefixes:
     print(prefix)
 ```
+
+Executing scripts
+-----------------
+
+```
+#!/usr/bin/env python
+```
+
 
 
 

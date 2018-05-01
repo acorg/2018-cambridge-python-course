@@ -579,7 +579,7 @@ We are going to parse window size into a function
 
 Commenting in python
 
-* # ignored by python
+* (#) ignored by python
 * comments in strings can be used for help()
 * “”” embed new lines onto strings
 

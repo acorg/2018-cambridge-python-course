@@ -1,0 +1,46 @@
+RECORD ID: site1test
+----  
+Record from FILE: GLAMA_20170628_041819
+Time and Date of Calc.:   04:21:32 2017-06-28
+Total No. of Pixels:      2460574 px
+Tot. No. of Light Pixels: 149352 px
+Gap Fraction:             6,07%
+Part of Hemisph. Taken:   92,00%
+Cut Level btw L-D pixels: 200
+----  
+Canopy Openness:          6,29%
+Canopy Closure:           93,71%
+Canopy Cover Index:       68,99%
+Modified CaCo Index:      79,87%
+----  
+
+RECORD ID: kitchen 
+----  
+Record from FILE: GLAMA_20170714_194041
+Time and Date of Calc.:   19:41:56 2017-07-14
+Total No. of Pixels:      2460574 px
+Tot. No. of Light Pixels: 112572 px
+Gap Fraction:             4.58%
+Part of Hemisph. Taken:   91.94%
+Cut Level btw L-D pixels: 105
+----  
+Canopy Openness:          4.57%
+Canopy Closure:           95.43%
+Canopy Cover Index:       63.58%
+Modified CaCo Index:      70.61%
+----  
+
+RECORD ID: p74a
+----  
+Record from FILE: GLAMA_20170715_105836
+Time and Date of Calc.:   11:05:33 2017-07-15
+Total No. of Pixels:      2460574 px
+Tot. No. of Light Pixels: 140248 px
+Gap Fraction:             5.70%
+Part of Hemisph. Taken:   91.94%
+Cut Level btw L-D pixels: 245
+----  
+Canopy Openness:          5.70%
+Canopy Closure:           94.30%
+Canopy Cover Index:       70.65%
+Modified CaCo Index:      81.90%

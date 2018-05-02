@@ -19,7 +19,7 @@ Some command line shortcuts:
 Press `ctrl-r` repeatedly to toggle through possibilities
 *`ctrl-l`: clear screen
 
-In general, `ctrl` does things oriented to characters, `alt` does things oriented to words.
+In general, `ctrl` does things on characters, `alt` does things on words.
 
 `less ~/.bash_history`: search through previous bash commands
 `set | less`: show all environment variables
@@ -104,48 +104,3 @@ or
 	"file", type = argparse.Filetype(), default = sys.stdin,
 	help = "The file to read")
 Note it is just "file" not "--file". This makes it a positional argument which comes as the last argument
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

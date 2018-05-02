@@ -4,7 +4,7 @@
 
 * Speed on the command line (1 hour)
 * A bit more on git/github, including where learn more  (1 hour)
-* Process CSV (1/2 day) - maybe Divya's amino acid substitution problem.
+* Process CSV (1/2 day) - maybe Divya's amino acid substitution problem
 * Jupyter notebooks (1/2 day)
 * Testing & scripts versus libraries (1/2 day)
 * Python classes (1/2 day)
@@ -21,8 +21,9 @@
 * More on where to find help, what to read, do, trust, etc. (1 hour)
 * samtools for pileups (2 hours)
 * Plotting (1/2 day)
-* Read Excel using Pandas (1/2 day) - maybe Stefan's problem.
-* Consolidate things with more programming.
+* Read Excel using Pandas (1/2 day) - maybe Stefan's problem
+* Consolidate things with more programming
+* Pelican notebooks (or possible github pages instead or in conjunction)
 
 ## Wednesday
 
@@ -30,9 +31,9 @@ Some things to discuss in the morning:
 
 * How are people with less experience doing / feeling?  Should we slow down?
 * Google group? Slack? IRC? More time hanging out together?
-* Emphasize attitude.
+* Emphasize attitude
 * Should we (you!) be doing more programming?
-* Make a rough timetable/plan for the rest of the course.
+* Make a rough timetable/plan for the rest of the course
 
 ## Thursday
 

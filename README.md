@@ -182,6 +182,16 @@ Difference between scripts and libraries.  This split is good for testing.
 
 ### Miscellaneous
 
+BioPython
+
+Regular expressions
+
+Make files
+
+argparse
+
+`screen` / `tmux`
+
 Something about [markdown](https://daringfireball.net/projects/markdown/syntax).
 
 Online notebooks with [pelican](https://blog.getpelican.com/).

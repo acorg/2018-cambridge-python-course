@@ -9,6 +9,7 @@
 * Testing & scripts versus libraries (1/2 day)
 * Python classes (1/2 day)
 * More of your own problems (infinity)
+* Make a Google group
 
 ## Might do
 
@@ -23,7 +24,7 @@
 * Plotting (1/2 day)
 * Read Excel using Pandas (1/2 day) - maybe Stefan's problem
 * Consolidate things with more programming
-* Pelican notebooks (or possible github pages instead or in conjunction)
+* Pelican notebooks (or possibly github pages instead or in conjunction)
 
 ## Wednesday
 

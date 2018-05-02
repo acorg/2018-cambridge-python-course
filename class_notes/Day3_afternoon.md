@@ -103,4 +103,5 @@ or
 `parser.add_argument(
 	"file", type = argparse.Filetype(), default = sys.stdin,
 	help = "The file to read")
+
 Note it is just "file" not "--file". This makes it a positional argument which comes as the last argument

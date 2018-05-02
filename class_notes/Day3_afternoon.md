@@ -4,7 +4,7 @@
 Some command line shortcuts:
 *`up-arrow`: scroll back through previous commands
 *`alt-B`: go back a whole word along line
-*`alt-f: go forward by a word
+*`alt-f`: go forward by a word
 *`alt-d`: delete word after cursor
 *`alt-backspace` : delete word before cursor
 *`ctrl-k`: delete from cursor to end of line

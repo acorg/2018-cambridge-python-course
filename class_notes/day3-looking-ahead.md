@@ -10,6 +10,7 @@
 * Python classes (1/2 day)
 * More of your own problems (infinity)
 * Make a Google group
+* Python virtual environments
 
 ## Might do
 

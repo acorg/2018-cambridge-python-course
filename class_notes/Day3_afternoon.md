@@ -1,4 +1,4 @@
-# Class notes - day 3 afternoon
+# Class notes - Day 3, Afternoon
 
 ## Speed on the Command Line
 Some command line shortcuts:

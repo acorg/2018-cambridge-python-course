@@ -2,9 +2,9 @@
 
 ## Must do
 
-* Speed on the command line (1 hour)
-* A bit more on git/github, including where learn more  (1 hour)
-* Process CSV (1/2 day) - maybe Divya's amino acid substitution problem
+* ~~Speed on the command line (1 hour)~~
+* ~~A bit more on git/github, including where to learn more  (1 hour)~~
+* ~~Process CSV (1/2 day) - maybe Divya's amino acid substitution problem~~
 * Jupyter notebooks (1/2 day)
 * Testing & scripts versus libraries (1/2 day)
 * Python classes (1/2 day)
@@ -12,8 +12,8 @@
 
 ## Might do
 
-* Using ssh to reach the cluster (1 hour)
-* Using tmux or screen (1 hour)
+* ~~Using ssh to reach the cluster (1 hour)~~
+* ~~Using tmux or screen (1 hour)~~
 * One perl command (30 mins)
 * More on regular expressions (1.5 hours)
 * Learn about dark matter - interesting to Gabriel, Pier, Tali, others? (1/2 day)

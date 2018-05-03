@@ -7,7 +7,7 @@
 * ~~Process CSV (1/2 day) - maybe Divya's amino acid substitution problem~~
 * Jupyter notebooks (1/2 day)
 * Testing & scripts versus libraries (1/2 day)
-* Python classes (1/2 day)
+* ~~Python classes (1/2 day)~~
 * More of your own problems (infinity)
 * Make a Google group
 * Python virtual environments

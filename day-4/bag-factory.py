@@ -2,6 +2,10 @@
 
 
 class BagFactory():
+    """This is a factory that produces bags, preferably turquoise.
+
+    Founded in Australia, with subsidiary operations in the UK.
+    """
 
     def __init__(self, color='turquoise', material='leather',
                  length=1, width=1, height=1):
@@ -12,6 +16,10 @@ class BagFactory():
         self.height = height
 
     def volume(self):
+        """Return the volume of a bag.
+
+        This is just the length * width * height.
+        """
         return self.length * self.width * self.height
 
     def __len__(self):

@@ -9,7 +9,7 @@
 * Testing & scripts versus libraries (1/2 day)
 * ~~Python classes (1/2 day)~~
 * More of your own problems (infinity)
-* Make a Google group
+* ~~Make a Google group~~
 * Python virtual environments
 
 ## Might do
@@ -20,7 +20,7 @@
 * More on regular expressions (1.5 hours)
 * Learn about dark matter - interesting to Gabriel, Pier, Tali, others? (1/2 day)
 * More shell programming / UNIX tools. Mention `$(..)`, other shell variables? (2+ hours)
-* More on where to find help, what to read, do, trust, etc. (1 hour)
+* ~~More on where to find help, what to read, do, trust, etc. (1 hour)~~
 * samtools for pileups (2 hours)
 * Plotting (1/2 day)
 * Read Excel using Pandas (1/2 day) - maybe Stefan's problem

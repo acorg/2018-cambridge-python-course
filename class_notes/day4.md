@@ -1,8 +1,8 @@
-#Mailing list
+# Mailing list
 
 Started a google group: camhackers@googlegroups.com
 
-#Classes
+# Classes
 
 Classes are akin to factories. We talked through classes using a bag factory analogy.
 The bag factory (i.e. class) provides the capacity to make bags (i.e. objects) but not their actual production.
@@ -21,7 +21,7 @@ Using the bag factory example, if we wanted to open a new subsidiary of our bag-
 
 If you use strings to describes classes and functions, you can then use the option help() to see documentation for these classes and functions.
 
-#Places to look for help
+# Places to look for help
 
 python.org
 stackoverflow - look at the date (old - is it out of date or has it stood the test of time?), reputation of person, upvoting
@@ -29,7 +29,7 @@ pydoc - find out about python classes e.g. to find out about the function `len` 
 python help() function
 python dir(*object*) function 
 
-#Jupyter
+# Jupyter
 
 Jupyter is an integrated development environment for python.
 

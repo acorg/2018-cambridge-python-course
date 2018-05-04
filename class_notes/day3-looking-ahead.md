@@ -39,9 +39,9 @@ Some things to discuss in the morning:
 
 ## Thursday
 
-* Antigenic Cartography group meeting at 1pm
-
 ## Friday
+
+* Antigenic Cartography group meeting at 1pm
 
 ## Monday
 

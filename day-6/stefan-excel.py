@@ -35,11 +35,13 @@ for row in sheet1.iter_rows():
             cell.value = '120'
         elif cell.value == 4.5:
             cell.value = '240'
-        elif cell.value == 6.5:
+        elif cell.value == 5.5:
             cell.value = '480'
-        elif cell.value == 7.5:
+        elif cell.value == 6.5:
             cell.value = '960'
-        elif cell.value == 8.5:
+        elif cell.value == 7.5:
             cell.value = '1920'
+        elif cell.value == 8.5:
+            cell.value = '2560'
 
 excelFile.save('stefan-new-data.xlsx')

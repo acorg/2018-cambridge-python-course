@@ -14,15 +14,17 @@
 
 ## Might do
 
+* Pelican notebooks (or possibly github pages instead or in conjunction)
+* A bit more about github - issues, pull requests
+* A bit more on shell programming
+* Books
 * One perl command (30 mins)
-* More on regular expressions (1.5 hours)
+* More on regular expressions (actually, see `pydoc re`) (1.5 hours)
 * Learn about dark matter - interesting to Gabriel, Pier, Tali, others? (1/2 day)
-* More shell programming / UNIX tools. Mention `$(..)`, other shell variables? (2+ hours)
+* More shell programming / random UNIX tools: `$(..)`, other shell variables? (2+ hours)
 * samtools for pileups (2 hours)
 * Plotting (1/2 day)
-* Read Excel using Pandas (1/2 day) - maybe Stefan's problem
-* Consolidate things with more programming
-* Pelican notebooks (or possibly github pages instead or in conjunction)
+* ~~Read Excel using Pandas (1/2 day) - maybe Stefan's problem~~
 * ~~More on where to find help, what to read, do, trust, etc. (1 hour)~~
 * ~~Using ssh to reach the cluster (1 hour)~~
 * ~~Using tmux or screen (1 hour)~~

@@ -17,7 +17,7 @@
 * ~~Pelican notebooks (or possibly github pages instead or in conjunction)~~
 * ~~A bit more about github - issues, pull requests~~
 * ~~More shell programming / random UNIX tools: `$(..)`, other shell variables? (2+ hours)~~
-* GNU parallel
+* ~~GNU parallel~~
 * Books
 * One perl command (30 mins)
 * More on regular expressions (actually, see `pydoc re`) (1.5 hours)

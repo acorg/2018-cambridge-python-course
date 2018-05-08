@@ -15,7 +15,7 @@
 ## Might do
 
 * ~~Pelican notebooks (or possibly github pages instead or in conjunction)~~
-* A bit more about github - issues, pull requests
+* ~~A bit more about github - issues, pull requests~~
 * A bit more on shell programming
 * Books
 * One perl command (30 mins)

@@ -16,12 +16,12 @@
 
 * ~~Pelican notebooks (or possibly github pages instead or in conjunction)~~
 * ~~A bit more about github - issues, pull requests~~
-* A bit more on shell programming
+* ~~More shell programming / random UNIX tools: `$(..)`, other shell variables? (2+ hours)~~
+* GNU parallel
 * Books
 * One perl command (30 mins)
 * More on regular expressions (actually, see `pydoc re`) (1.5 hours)
 * Learn about dark matter - interesting to Gabriel, Pier, Tali, others? (1/2 day)
-* More shell programming / random UNIX tools: `$(..)`, other shell variables? (2+ hours)
 * samtools for pileups (2 hours)
 * Plotting (1/2 day)
 * ~~Read Excel using Pandas (1/2 day) - maybe Stefan's problem~~

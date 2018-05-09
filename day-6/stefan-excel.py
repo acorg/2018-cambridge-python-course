@@ -6,7 +6,8 @@ import argparse
 
 parser = argparse.ArgumentParser( 
     description='Script to convert HI data from lab readout to titers.',
-    usage='python3  stefan-excel.py -e [table.xlsx]')
+    usage='python3  stefan-excel.py -e [table.xlsx]',
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 
 parser.add_argument(
     '-e', action="store", default= None, required=True,
@@ -14,18 +15,18 @@ parser.add_argument(
 
 parser.add_argument(
     '-s', type=int, default=20,
-    help='The starting dillution, default=20.')
+    help='The starting dilution')
 
 
 
 
 args = parser.parse_args()
-std = args.starting_dillution
+std = args.s
 stdh = std * 1.5
 co = round(std // 2)
 cutoff = '<%s' % co
 
-table = openpyxl.load_workbook(args.Excelfile)
+table = openpyxl.load_workbook(args.e)
 
 sheet1 = table.active
 
@@ -60,10 +61,9 @@ convert = {
 
 for row in sheet1.iter_rows():
     for cell in row:
-        value = str(cell.value)
-        if cell.value in convert:
-            cell.value = convert.get(str(cell.value), cell.value)
+        cell.value = convert.get(str(cell.value), cell.value)
+            
 
 
-name, blank = args.Excelfile.split('.xlsx')
-Hi.save('%s_py.xlsx' %name)
+name, _ = args.e.split('.xlsx')
+table.save('%s_py.xlsx' %name)

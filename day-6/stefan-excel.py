@@ -66,4 +66,5 @@ for row in sheet1.iter_rows():
 
 
 name, _ = args.e.split('.xlsx')
+
 table.save('%s_py.xlsx' %name)

@@ -82,6 +82,15 @@ while n <= sheet.max_row:
 # Remove UVorVis column
 sheet.delete_cols (4)
 
+### Check how many individuals in dataset
+## There are multiple entries for each individual but focussing on different regions of interest
+names = []
+for i in range (2, sheet.max_row + 1):
+    individual = sheet.cell (row = i, column = 2).value
+    names.append (individual)
+len (set(names)) # Returns only unique elements of the "names" list  
+
+
 # Save changes
 wb.save('Raw pixels neatened.xlsx')
 
